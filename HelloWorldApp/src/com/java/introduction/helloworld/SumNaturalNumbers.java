@@ -1,3 +1,4 @@
+package com.java.introduction.helloworld;
 public class SumNaturalNumbers {
 
     void sumNumbers(){
